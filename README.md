@@ -7,4 +7,6 @@ First add this into info.plist File
 	<key>LSSupportsOpeningDocumentsInPlace</key>
 	<true/>
   
+  Downloading with progress.
+  When dowanloading finished a folder with your app name created in File manager and save this file to there.
   
