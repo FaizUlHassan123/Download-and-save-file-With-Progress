@@ -1,6 +1,6 @@
 # Download-and-save-file-With-Progress
 
-First add thi into info.plist File
+First add this into info.plist File
 
 	<key>UIFileSharingEnabled</key>
 	<true/>
